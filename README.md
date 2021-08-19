@@ -10,3 +10,7 @@ JIKA ``pip install pygame`` tidak bisa dijalankan, coba:
 ``python -m pip install pygame``
 
 pastikan ``main.py`` berada pada direktory ``./data`` dan execute  ``python main.py``.
+
+*final project Thematic Academy (TA)
+Indonesian Women in Tech: Programming with Python
+dari Kementerian Komunikasi dan Informatika with Cisco Networking Academy x ITU
